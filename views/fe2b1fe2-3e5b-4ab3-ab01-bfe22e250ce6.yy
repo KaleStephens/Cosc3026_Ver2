@@ -8,7 +8,8 @@
         "ae15e179-0d79-45b6-a2b6-e3b0e7995bc4",
         "72fa8bd1-e57a-4d9c-8f4b-e0b5a63948e0",
         "962f42e5-ce2f-4c76-92de-918eb7662238",
-        "e6b4f8cb-83b2-497c-a923-9081adc3f9da"
+        "e6b4f8cb-83b2-497c-a923-9081adc3f9da",
+        "9f658a31-0f84-4e77-b412-d3aa125c161a"
     ],
     "filterType": "GMObject",
     "folderName": "grp_powerup",

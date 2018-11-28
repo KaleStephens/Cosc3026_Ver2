@@ -1,18 +1,18 @@
 {
-    "id": "2518ebdc-bc60-43dd-9158-aac71137d2e3",
+    "id": "9f658a31-0f84-4e77-b412-d3aa125c161a",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_health_pot",
+    "name": "obj_penetrating_shot",
     "eventList": [
         {
-            "id": "87b80425-d4a8-4222-a988-5d79c77ab3f1",
+            "id": "93ffb87e-2eac-4122-97c2-dc367209f622",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": true,
             "collisionObjectId": "51a53777-deb2-49e9-8b3e-cfafddfb2e0a",
             "enumb": 0,
             "eventtype": 4,
-            "m_owner": "2518ebdc-bc60-43dd-9158-aac71137d2e3"
+            "m_owner": "9f658a31-0f84-4e77-b412-d3aa125c161a"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -33,6 +33,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "3cb57041-6294-4d59-8a70-bab061b36473",
+    "spriteId": "c78713c5-582c-41c3-b760-00ef435e51f5",
     "visible": true
 }

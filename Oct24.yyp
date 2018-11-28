@@ -170,7 +170,7 @@
             "Key": "2518ebdc-bc60-43dd-9158-aac71137d2e3",
             "Value": {
                 "id": "102cd1ca-ac30-4121-a2a3-2f9930e34a5f",
-                "resourcePath": "objects\\obj_health_pot\\obj_health_pot.yy",
+                "resourcePath": "objects\\obj_health_restore\\obj_health_restore.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -548,6 +548,14 @@
                 "id": "53efa5c1-1f13-4bae-8bb8-0d0e307f516c",
                 "resourcePath": "rooms\\rDeath\\rDeath.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "9f658a31-0f84-4e77-b412-d3aa125c161a",
+            "Value": {
+                "id": "4d0bc6d1-3de7-497c-9a45-6df20856107b",
+                "resourcePath": "objects\\obj_penetrating_shot\\obj_penetrating_shot.yy",
+                "resourceType": "GMObject"
             }
         },
         {
