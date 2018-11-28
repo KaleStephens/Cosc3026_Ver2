@@ -1,18 +1,12 @@
-/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDAction : YoYo Games.Instances.Destroy_Instance
 /// @DnDVersion : 1
-/// @DnDHash : 183D2149
+/// @DnDHash : 07AD8CFD
 /// @DnDApplyTo : other
-/// @DnDArgument : "expr" "-1"
-/// @DnDArgument : "expr_relative" "1"
-/// @DnDArgument : "var" "hp"
-with(other) {
-hp += -1;
-
-}
+with(other) instance_destroy();
 
 /// @DnDAction : YoYo Games.Instances.Change_Instance
 /// @DnDVersion : 1
-/// @DnDHash : 0F081D05
+/// @DnDHash : 1A9721B9
 /// @DnDArgument : "objind" "obj_broken_pot"
 /// @DnDSaveInfo : "objind" "f4e26e06-c10c-4c4d-94d8-a65503818671"
 instance_change(obj_broken_pot, true);

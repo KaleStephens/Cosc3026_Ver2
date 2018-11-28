@@ -1,4 +1,5 @@
-/// @DnDAction : YoYo Games.Instances.Destroy_Instance
+/// @DnDAction : YoYo Games.Instances.Change_Instance
 /// @DnDVersion : 1
-/// @DnDHash : 5492E8C4
-instance_destroy();
+/// @DnDHash : 09990807
+/// @DnDArgument : "objind" "obj_broken_pot"
+instance_change(obj_broken_pot, true);

@@ -1,38 +1,28 @@
 {
-    "id": "cf439745-5388-40ed-9490-10f2f581199f",
+    "id": "f4e26e06-c10c-4c4d-94d8-a65503818671",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_bullet",
+    "name": "obj_broken_pot",
     "eventList": [
         {
-            "id": "940d1a88-015c-4698-a53a-2309535e1640",
+            "id": "6f711976-cffb-4866-9dff-dde66fff5ade",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": true,
-            "collisionObjectId": "eb7720cf-0968-489d-8bf0-289b5b3a5c0d",
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
-            "eventtype": 4,
-            "m_owner": "cf439745-5388-40ed-9490-10f2f581199f"
+            "eventtype": 3,
+            "m_owner": "f4e26e06-c10c-4c4d-94d8-a65503818671"
         },
         {
-            "id": "ea42b9ad-b8e3-4b09-964d-e0f00b291b3c",
+            "id": "80e9005e-13ac-4ec8-91fa-1849712bc3f6",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": true,
-            "collisionObjectId": "5344f6dc-10a8-4394-a85d-c5722ac40067",
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
-            "eventtype": 4,
-            "m_owner": "cf439745-5388-40ed-9490-10f2f581199f"
-        },
-        {
-            "id": "78233d32-7400-43e1-b6f3-08789996631a",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": true,
-            "collisionObjectId": "018aed2b-3379-4980-ae22-011973e7c5e7",
-            "enumb": 0,
-            "eventtype": 4,
-            "m_owner": "cf439745-5388-40ed-9490-10f2f581199f"
+            "eventtype": 0,
+            "m_owner": "f4e26e06-c10c-4c4d-94d8-a65503818671"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -53,6 +43,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "692e583a-0811-4f29-8ee5-eb953b98998b",
+    "spriteId": "74011777-0749-4727-a9d6-f65b8f883f24",
     "visible": true
 }

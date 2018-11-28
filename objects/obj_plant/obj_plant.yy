@@ -4,16 +4,7 @@
     "mvc": "1.0",
     "name": "obj_plant",
     "eventList": [
-        {
-            "id": "e94f545a-adc9-4ea8-8439-56df26c70cfd",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": true,
-            "collisionObjectId": "cf439745-5388-40ed-9490-10f2f581199f",
-            "enumb": 0,
-            "eventtype": 4,
-            "m_owner": "018aed2b-3379-4980-ae22-011973e7c5e7"
-        }
+        
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
