@@ -19,7 +19,7 @@ if(cooldown <= 0)
 	/// @DnDVersion : 1
 	/// @DnDHash : 3382BBAA
 	/// @DnDParent : 5C2A43A8
-	/// @DnDArgument : "expr" "cooldown_stat"
+	/// @DnDArgument : "expr" "global.cooldown_stat"
 	/// @DnDArgument : "var" "cooldown"
-	cooldown = cooldown_stat;
+	cooldown = global.cooldown_stat;
 }
