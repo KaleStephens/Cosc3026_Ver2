@@ -5,7 +5,7 @@ key_exit = keyboard_check(vk_backspace);
 
 
 if(key_start == true){
-	room_goto(rStart);
+	game_restart();
 }
 
 if(key_exit == true){
