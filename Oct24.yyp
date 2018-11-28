@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "00f19e69-a6e9-4a2b-8a00-f878c3eb7e66",
+            "Value": {
+                "id": "d34962c6-6513-49ba-9e05-c4d3e62957db",
+                "resourcePath": "objects\\obj_death_menu\\obj_death_menu.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "018aed2b-3379-4980-ae22-011973e7c5e7",
             "Value": {
                 "id": "313e05da-7348-469f-9859-eefdfd852f50",
