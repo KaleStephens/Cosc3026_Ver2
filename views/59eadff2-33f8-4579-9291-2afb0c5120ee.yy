@@ -11,7 +11,8 @@
         "6e408c3a-1333-46b0-a934-047ee2a1266e",
         "bc15dc2c-3729-4b6c-8447-b99ca4cf0d2f",
         "6ec0159b-3d64-4f73-9fad-fd17dc88840a",
-        "74011777-0749-4727-a9d6-f65b8f883f24"
+        "74011777-0749-4727-a9d6-f65b8f883f24",
+        "43a04666-1d79-485a-ae07-de8817a668c8"
     ],
     "filterType": "GMSprite",
     "folderName": "grp_player",

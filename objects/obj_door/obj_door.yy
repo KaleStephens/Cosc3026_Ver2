@@ -4,20 +4,11 @@
     "mvc": "1.0",
     "name": "obj_door",
     "eventList": [
-        {
-            "id": "19ae2812-ecf4-4fde-ab5a-209d65a1240c",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": true,
-            "collisionObjectId": "cf439745-5388-40ed-9490-10f2f581199f",
-            "enumb": 0,
-            "eventtype": 4,
-            "m_owner": "6a87ed6f-3469-476b-ba64-14e15e01adfa"
-        }
+        
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
-    "parentObjectId": "5344f6dc-10a8-4394-a85d-c5722ac40067",
+    "parentObjectId": "018aed2b-3379-4980-ae22-011973e7c5e7",
     "persistent": false,
     "physicsAngularDamping": 0.1,
     "physicsDensity": 0.5,

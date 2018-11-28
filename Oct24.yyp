@@ -215,6 +215,14 @@
             }
         },
         {
+            "Key": "43a04666-1d79-485a-ae07-de8817a668c8",
+            "Value": {
+                "id": "92d911a2-8fad-473e-b616-1a1003fcc3ed",
+                "resourcePath": "sprites\\spr_fragments\\spr_fragments.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "44089e1f-1515-4762-a0e8-703317897e06",
             "Value": {
                 "id": "692013dd-ebff-41e3-b9ae-674be81dae5f",
@@ -299,6 +307,14 @@
             "Value": {
                 "id": "4492f7b5-fcc1-45c0-adc2-713c072c76dd",
                 "resourcePath": "objects\\obj_wall\\obj_wall.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "557d6988-f36f-492e-b095-550b775327cb",
+            "Value": {
+                "id": "88a9eaf4-a61b-441d-95f4-2a627c6a6a0b",
+                "resourcePath": "objects\\obj_shrapnel\\obj_shrapnel.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -500,6 +516,14 @@
                 "id": "53efa5c1-1f13-4bae-8bb8-0d0e307f516c",
                 "resourcePath": "rooms\\rDeath\\rDeath.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "a1039981-6ae3-4ae1-9e38-52be73de4fec",
+            "Value": {
+                "id": "9d4dd821-e1ba-4ab2-a374-eb97ca327c27",
+                "resourcePath": "objects\\obj_broken_shrapnel\\obj_broken_shrapnel.yy",
+                "resourceType": "GMObject"
             }
         },
         {
