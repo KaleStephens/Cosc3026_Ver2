@@ -151,6 +151,14 @@
             }
         },
         {
+            "Key": "2518ebdc-bc60-43dd-9158-aac71137d2e3",
+            "Value": {
+                "id": "102cd1ca-ac30-4121-a2a3-2f9930e34a5f",
+                "resourcePath": "objects\\obj_health_pot\\obj_health_pot.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "25a57e89-2bf6-4671-971a-2e3a671b633e",
             "Value": {
                 "id": "95bcae61-363f-4875-aa99-45ff9bb119fb",
@@ -180,6 +188,14 @@
                 "id": "bbc96dcf-70fb-4d85-a74d-e9488ad16508",
                 "resourcePath": "views\\337e30f6-c9c4-418d-a66d-483219df2f77.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "3cb57041-6294-4d59-8a70-bab061b36473",
+            "Value": {
+                "id": "b5df316e-7386-42ff-8985-521dad28883d",
+                "resourcePath": "sprites\\spr_health_pot\\spr_health_pot.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
