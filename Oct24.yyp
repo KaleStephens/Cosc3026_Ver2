@@ -71,6 +71,14 @@
             }
         },
         {
+            "Key": "116d3b00-dfb5-4a10-8402-c22d2a855cfc",
+            "Value": {
+                "id": "d4da1256-9e19-4b0f-a13f-c2f64e3c7781",
+                "resourcePath": "objects\\obj_start_menu\\obj_start_menu.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "129c5952-2bda-42b6-a9d4-6a56c78eb76b",
             "Value": {
                 "id": "638ca8ab-5721-46b7-a4e5-72fc8b096f37",
@@ -180,6 +188,14 @@
                 "id": "692013dd-ebff-41e3-b9ae-674be81dae5f",
                 "resourcePath": "views\\44089e1f-1515-4762-a0e8-703317897e06.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "45d51037-072c-421a-bef2-26608f63e2ac",
+            "Value": {
+                "id": "078fb30a-9a1b-4834-a536-f363843e895d",
+                "resourcePath": "rooms\\rStart\\rStart.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -415,6 +431,14 @@
             }
         },
         {
+            "Key": "96edf3b9-05e2-4ab8-b796-f3003d1a51bb",
+            "Value": {
+                "id": "53efa5c1-1f13-4bae-8bb8-0d0e307f516c",
+                "resourcePath": "rooms\\rDeath\\rDeath.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "a4bb2253-2275-4c77-9b89-b1e992239aec",
             "Value": {
                 "id": "e7ad41c3-6701-40a7-8e62-59747939c22a",
@@ -628,6 +652,14 @@
                 "id": "f0a63bef-9a63-43d5-8d77-36ed1171361d",
                 "resourcePath": "sprites\\spr_stairs_down\\spr_stairs_down.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "f3b04dae-e773-46e3-877e-237968456fa9",
+            "Value": {
+                "id": "77360c1d-10c5-45ed-8c17-a31ef7884749",
+                "resourcePath": "views\\f3b04dae-e773-46e3-877e-237968456fa9.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
