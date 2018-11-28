@@ -271,6 +271,14 @@
             }
         },
         {
+            "Key": "47024b26-4ef4-4c67-9e4c-bd39e3b8666c",
+            "Value": {
+                "id": "62f54611-0586-40c7-b896-0807c864a249",
+                "resourcePath": "sprites\\spr_spikes_down\\spr_spikes_down.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "4b5680fb-5489-42c3-a7eb-1d2d6f563529",
             "Value": {
                 "id": "22f9f5ca-8b36-44c8-b3a5-7850d08286c3",
@@ -647,6 +655,14 @@
             }
         },
         {
+            "Key": "b8e8a8fc-457a-4a30-95f2-6090ebfb0fb3",
+            "Value": {
+                "id": "4aebfa19-a2a3-43bf-958f-0acb10577c5f",
+                "resourcePath": "objects\\obj_cage_up\\obj_cage_up.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "bc15dc2c-3729-4b6c-8447-b99ca4cf0d2f",
             "Value": {
                 "id": "d8506386-5a72-4403-ba61-e21cbd059848",
@@ -783,6 +799,14 @@
             }
         },
         {
+            "Key": "ddaefb37-622a-4491-a5d7-ffd0f231bddd",
+            "Value": {
+                "id": "505e655d-0b84-4501-8004-1422e8c5db05",
+                "resourcePath": "sprites\\spr_spikes_up\\spr_spikes_up.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "de9c2c48-1cd8-428d-9a32-891b5641c73a",
             "Value": {
                 "id": "5ffd0f87-df21-42e8-9723-9743539d9170",
@@ -835,6 +859,14 @@
             "Value": {
                 "id": "ada5e227-c53e-444a-b951-3aaecd02a0cb",
                 "resourcePath": "objects\\obj_bright_top\\obj_bright_top.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "ed2f763a-2308-4d00-abd2-272963bfb175",
+            "Value": {
+                "id": "a0e5ed2f-c93f-4473-8412-3b6e2a83d94f",
+                "resourcePath": "objects\\obj_cage_down\\obj_cage_down.yy",
                 "resourceType": "GMObject"
             }
         },
