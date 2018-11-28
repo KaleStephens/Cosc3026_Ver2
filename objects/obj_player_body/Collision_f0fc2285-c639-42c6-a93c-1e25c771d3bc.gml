@@ -3,8 +3,8 @@
 /// @DnDHash : 286230CE
 /// @DnDArgument : "expr" "-1"
 /// @DnDArgument : "expr_relative" "1"
-/// @DnDArgument : "var" "hp"
-hp += -1;
+/// @DnDArgument : "var" "global.player_hp"
+global.player_hp += -1;
 
 /// @DnDAction : YoYo Games.Instances.Destroy_Instance
 /// @DnDVersion : 1

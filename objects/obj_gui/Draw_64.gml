@@ -1,6 +1,6 @@
 
 
-guihealth = obj_player_body.hp;
+guihealth = global.player_hp;
 
 if(guihealth == 3){ 
 draw_sprite(spr_heart, 1, heartX, heartY);

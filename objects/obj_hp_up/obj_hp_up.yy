@@ -1,18 +1,18 @@
 {
-    "id": "2518ebdc-bc60-43dd-9158-aac71137d2e3",
+    "id": "ae15e179-0d79-45b6-a2b6-e3b0e7995bc4",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_health_pot",
+    "name": "obj_hp_up",
     "eventList": [
         {
-            "id": "87b80425-d4a8-4222-a988-5d79c77ab3f1",
+            "id": "42d0d50a-fc63-40a6-998a-a43546df0802",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": true,
             "collisionObjectId": "51a53777-deb2-49e9-8b3e-cfafddfb2e0a",
             "enumb": 0,
             "eventtype": 4,
-            "m_owner": "2518ebdc-bc60-43dd-9158-aac71137d2e3"
+            "m_owner": "ae15e179-0d79-45b6-a2b6-e3b0e7995bc4"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -33,6 +33,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "3cb57041-6294-4d59-8a70-bab061b36473",
+    "spriteId": "3dae1502-9b0d-4427-9d35-41a51151200e",
     "visible": true
 }

@@ -1,5 +1,6 @@
 myscore = 0;
-guihealth = obj_player_body.hp;
+global.player_hp = 3;
+guihealth = global.player_hp;
 enemies = 0;
 money = 0;
 

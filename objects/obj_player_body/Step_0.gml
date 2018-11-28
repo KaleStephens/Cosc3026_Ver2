@@ -9,10 +9,10 @@ cooldown += -1;
 /// @DnDAction : YoYo Games.Common.If_Variable
 /// @DnDVersion : 1
 /// @DnDHash : 5959A6CE
-/// @DnDArgument : "var" "hp"
+/// @DnDArgument : "var" "global.player_hp"
 /// @DnDArgument : "op" "1"
 /// @DnDArgument : "value" "1"
-if(hp < 1)
+if(global.player_hp < 1)
 {
 	/// @DnDAction : YoYo Games.Instances.Destroy_Instance
 	/// @DnDVersion : 1
