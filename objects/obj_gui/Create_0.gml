@@ -1,6 +1,7 @@
 myscore = 0;
 global.player_hp = 3;
-guihealth = global.player_hp;
+global.player_hp_max = 3;
+maxhealth = global.player_hp_max;
 enemies = 0;
 money = 0;
 
