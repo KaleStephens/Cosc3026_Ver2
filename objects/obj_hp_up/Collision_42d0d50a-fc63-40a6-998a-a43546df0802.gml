@@ -16,5 +16,23 @@ global.player_hp += +2;
 
 /// @DnDAction : YoYo Games.Instances.Destroy_Instance
 /// @DnDVersion : 1
+/// @DnDHash : 1155260D
+/// @DnDApplyTo : 962f42e5-ce2f-4c76-92de-918eb7662238
+with(obj_attack_speed) instance_destroy();
+
+/// @DnDAction : YoYo Games.Instances.Destroy_Instance
+/// @DnDVersion : 1
+/// @DnDHash : 0F328237
+/// @DnDApplyTo : e6b4f8cb-83b2-497c-a923-9081adc3f9da
+with(obj_burst_shot) instance_destroy();
+
+/// @DnDAction : YoYo Games.Instances.Destroy_Instance
+/// @DnDVersion : 1
+/// @DnDHash : 19E91B90
+/// @DnDApplyTo : 9f658a31-0f84-4e77-b412-d3aa125c161a
+with(obj_penetrating_shot) instance_destroy();
+
+/// @DnDAction : YoYo Games.Instances.Destroy_Instance
+/// @DnDVersion : 1
 /// @DnDHash : 50BF59C3
 instance_destroy();

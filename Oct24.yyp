@@ -623,6 +623,14 @@
             }
         },
         {
+            "Key": "ad779306-bc0c-404e-87ea-f58e14bf7a86",
+            "Value": {
+                "id": "efaf0043-fbb0-4af5-ba48-b8007b38124c",
+                "resourcePath": "objects\\obj_burst_pot\\obj_burst_pot.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "ae15e179-0d79-45b6-a2b6-e3b0e7995bc4",
             "Value": {
                 "id": "cae407db-18a0-4aa3-899d-65f8e4a3d2be",

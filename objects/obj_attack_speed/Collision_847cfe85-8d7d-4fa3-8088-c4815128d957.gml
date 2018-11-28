@@ -14,5 +14,17 @@ with(obj_burst_shot) instance_destroy();
 
 /// @DnDAction : YoYo Games.Instances.Destroy_Instance
 /// @DnDVersion : 1
+/// @DnDHash : 005A7D1F
+/// @DnDApplyTo : ae15e179-0d79-45b6-a2b6-e3b0e7995bc4
+with(obj_hp_up) instance_destroy();
+
+/// @DnDAction : YoYo Games.Instances.Destroy_Instance
+/// @DnDVersion : 1
+/// @DnDHash : 65CABD1A
+/// @DnDApplyTo : 9f658a31-0f84-4e77-b412-d3aa125c161a
+with(obj_penetrating_shot) instance_destroy();
+
+/// @DnDAction : YoYo Games.Instances.Destroy_Instance
+/// @DnDVersion : 1
 /// @DnDHash : 53E70034
 instance_destroy();

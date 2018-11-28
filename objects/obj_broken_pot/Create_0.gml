@@ -6,6 +6,6 @@ direction = (direction + 180) % 360;
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
 /// @DnDHash : 294E235F
-/// @DnDArgument : "expr" "2"
+/// @DnDArgument : "expr" "3"
 /// @DnDArgument : "var" "speed"
-speed = 2;
+speed = 3;
