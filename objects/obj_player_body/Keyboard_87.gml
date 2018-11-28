@@ -12,14 +12,14 @@ if(cooldown <= 0)
 	/// @DnDArgument : "xpos_relative" "1"
 	/// @DnDArgument : "ypos_relative" "1"
 	/// @DnDArgument : "objectid" "obj_bullet_up"
-	/// @DnDSaveInfo : "objectid" "d33988cb-a5d2-4841-a8ea-b8fb267fe98b"
+	/// @DnDSaveInfo : "objectid" "080cf552-605d-4a7f-b9ce-68a44b4164a5"
 	instance_create_layer(x + 0, y + 0, "Instances", obj_bullet_up);
 
 	/// @DnDAction : YoYo Games.Common.Variable
 	/// @DnDVersion : 1
 	/// @DnDHash : 3382BBAA
 	/// @DnDParent : 5C2A43A8
-	/// @DnDArgument : "expr" "15"
+	/// @DnDArgument : "expr" "cooldown_stat"
 	/// @DnDArgument : "var" "cooldown"
-	cooldown = 15;
+	cooldown = cooldown_stat;
 }
