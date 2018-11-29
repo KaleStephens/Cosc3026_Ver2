@@ -13,7 +13,9 @@
         "ebb24cf1-12b6-4456-9fc8-c422faf9bce1",
         "5229564f-6d96-45a6-aacf-2c5cb7fc215b",
         "47024b26-4ef4-4c67-9e4c-bd39e3b8666c",
-        "ddaefb37-622a-4491-a5d7-ffd0f231bddd"
+        "ddaefb37-622a-4491-a5d7-ffd0f231bddd",
+        "c73b75ba-6860-47b5-af62-26bf4a3d3c94",
+        "252be9d6-1386-4af5-870c-f5d65eaf4685"
     ],
     "filterType": "GMSprite",
     "folderName": "grp_enemy",
