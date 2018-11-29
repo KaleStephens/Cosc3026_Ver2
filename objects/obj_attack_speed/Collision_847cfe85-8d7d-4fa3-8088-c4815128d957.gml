@@ -1,10 +1,10 @@
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
 /// @DnDHash : 69A4CA12
-/// @DnDArgument : "expr" "-5"
+/// @DnDArgument : "expr" "-4"
 /// @DnDArgument : "expr_relative" "1"
 /// @DnDArgument : "var" "global.cooldown_stat"
-global.cooldown_stat += -5;
+global.cooldown_stat += -4;
 
 /// @DnDAction : YoYo Games.Instances.Destroy_Instance
 /// @DnDVersion : 1

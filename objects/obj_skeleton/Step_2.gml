@@ -27,9 +27,9 @@ if(cooldown <= 0)
 		/// @DnDVersion : 1
 		/// @DnDHash : 1F4547BD
 		/// @DnDParent : 3269D8BF
-		/// @DnDArgument : "expr" "30"
+		/// @DnDArgument : "expr" "100"
 		/// @DnDArgument : "var" "cooldown"
-		cooldown = 30;
+		cooldown = 100;
 	}
 }
 
